@@ -51,7 +51,7 @@ requirements.txt        # Kerakli kutubxonalar
 
 1. Repozitoriyani klonlash
 
-git clone https://github.com/JasurShermatov/impulse-bot.git
+git@github.com:JasurShermatov/Impulse_cdi_bot.git
 cd impulse-bot
 
 2. Virtual environment yaratish
